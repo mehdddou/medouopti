@@ -14,7 +14,7 @@ Niveaux : `lite`, `full` (défaut), `ultra`. Arrêt : « stop medouopti ».
 ## Installation
 
 ```
-/plugin marketplace add <compte>/medouopti
+/plugin marketplace add mehdddou/medouopti
 /plugin install medouopti@medouopti
 ```
 
