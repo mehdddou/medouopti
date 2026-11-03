@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "medouopti",
+  "description": "Mode économie de tokens tout-en-un pour Claude Code.",
+  "owner": { "name": "Mehdi Hamidat" },
+  "plugins": [
+    {
+      "name": "medouopti",
+      "description": "Lire moins, filtrer les sorties, écrire moins de code, répondre moins.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
