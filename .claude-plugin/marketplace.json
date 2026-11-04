@@ -2,7 +2,7 @@
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "medouopti",
   "description": "Mode économie de tokens tout-en-un pour Claude Code.",
-  "owner": { "name": "Mehdi Hamidat" },
+  "owner": { "name": "mehdddou" },
   "plugins": [
     {
       "name": "medouopti",

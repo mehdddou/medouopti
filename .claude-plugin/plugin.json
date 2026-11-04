@@ -2,7 +2,7 @@
   "name": "medouopti",
   "version": "1.0.0",
   "description": "Mode économie de tokens tout-en-un : lire moins (Graphify), sorties d'outils courtes (rtk/Headroom), écrire moins de code (Ponytail), répondre moins (Caveman).",
-  "author": { "name": "Mehdi Hamidat" },
+  "author": { "name": "mehdddou" },
   "license": "MIT",
   "keywords": ["tokens", "optimisation", "concise", "yagni"]
 }
