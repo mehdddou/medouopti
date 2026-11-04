@@ -22,6 +22,10 @@ Puis `/medouopti` dans Claude Code.
 
 Pour profiter pleinement de l'étape « Lire moins », installer Graphify : `pip install graphifyy && graphify install`, puis `/graphify .` dans le projet.
 
+## Voir aussi
+
+- [medoumini](https://github.com/mehdddou/medoumini) : un LLM local gratuit lit les gros fichiers et les dossiers à la place de Claude. medouopti réduit ce que Claude écrit, medoumini ce qu'il lit.
+
 ## Crédits
 
 Ce skill est une adaptation en français, réécrite et condensée, des idées de :
